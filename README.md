@@ -4,4 +4,4 @@
 
 > Patch: 1.0.12
 
-Repository with game icons
+Repository with icons of the Wuthering Waves game
