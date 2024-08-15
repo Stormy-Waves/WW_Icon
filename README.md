@@ -1,7 +1,5 @@
 # WW Icon
 
-> Game: 1.1
+> Game: 1.2
 
-> Patch: 1.1.7
-
-Repository with icons of the Wuthering Waves game
+> Patch: 1.2.7
